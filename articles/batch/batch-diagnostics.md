@@ -39,7 +39,7 @@ To view all Batch account metrics:
 > 
 > 
 
-    [Batch metrics](media/batch-diagnostics/metrics-portal.png)
+![Batch metrics](media/batch-diagnostics/metrics-portal.png)
 
 To retrieve metrics programmatically, use the Azure Monitor APIs. For example, see [Retrieve Azure Monitor metrics with .NET](https://azure.microsoft.com/resources/samples/monitor-dotnet-metrics-api/).
 
